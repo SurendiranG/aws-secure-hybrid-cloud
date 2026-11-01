@@ -24,3 +24,7 @@ Network design, least-privilege access, logging and monitoring, hybrid connectiv
 ## Cost
 
 Built and tested for under $1 (about $0.88 per Cost Explorer on 1 Nov 2026), by deleting the VPN and releasing the Elastic IP the same day and stopping servers after every session.
+
+## Architecture
+
+![Architecture diagram](architecture.svg)
