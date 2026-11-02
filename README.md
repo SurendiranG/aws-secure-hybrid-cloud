@@ -29,10 +29,6 @@ Built and tested for under $1 (about $0.88 per Cost Explorer on 1 Nov 2026), by 
 
 ![Architecture diagram](architecture.svg)
 
-## Architecture
-
-![Architecture diagram](architecture.svg)
-
 ## What I built
 
 | Service | What I used it for | Why |
